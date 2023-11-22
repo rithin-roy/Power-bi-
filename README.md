@@ -1,2 +1,2 @@
-# Power-bi-
+# Power-BI
 Data visualization
